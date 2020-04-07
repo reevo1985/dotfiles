@@ -1,0 +1,18 @@
+[2020-04-05 20:39:35.919][debug] Logging to /home/james/.config/Mullvad VPN/logs/frontend.log
+[2020-04-05 20:39:35.920][info] Running version 2020.3.0
+[2020-04-05 20:39:35.920][error] Failed to read GUI settings file: Error: ENOENT: no such file or directory, open '/home/james/.config/Mullvad VPN/gui_settings.json'
+[2020-04-05 20:39:35.943][info] Detected locale: en-US
+[2020-04-05 20:39:35.945][info] Connecting to transport with params { path: '/var/run/mullvad-vpn' }
+[2020-04-05 20:39:35.946][debug] Connect socket
+[2020-04-05 20:39:36.036][debug] Socket is ready
+[2020-04-05 20:39:36.037][info] Transport is connected
+[2020-04-05 20:41:26.179][warn] Request e4a6ff97-fda3-4a07-b640-86360ca81568 timed out:  RequestObject {
+  jsonrpc: '2.0',
+  id: 'e4a6ff97-fda3-4a07-b640-86360ca81568',
+  method: 'get_current_location',
+  params: []
+}
+[2020-04-05 20:41:26.179][error] Failed to update the location: Request timed out
+[2020-04-05 20:41:26.181][warn] Got reply to e4a6ff97-fda3-4a07-b640-86360ca81568 but no one was waiting for it
+[2020-04-05 20:41:27.239][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/james/.config/autostart/mullvad-vpn.desktop'
+[2020-04-07 01:04:21.174][info] Disconnected the tunnel

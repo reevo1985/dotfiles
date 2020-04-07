@@ -1,0 +1,8 @@
+[Added Associations]
+application/x-bittorrent=org.kde.ktorrent.desktop;
+video/x-matroska=vlc.desktop;
+
+[Default Applications]
+video/x-matroska=vlc.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;

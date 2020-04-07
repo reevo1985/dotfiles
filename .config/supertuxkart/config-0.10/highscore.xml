@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<highscores version="4">
+  <highscore track-name    ="scotland"
+             number-karts  ="4"
+             difficulty    ="0"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="249.055"
+                    name    ="james"
+                    kartname="hexley"/>
+  </highscore>
+  <highscore track-name    ="cornfield_crossing"
+             number-karts  ="6"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="190.664"
+                    name    ="james"
+                    kartname="hexley"/>
+             <entry time    ="191.971"
+                    name    ="james"
+                    kartname="beastie"/>
+             <entry time    ="211.407"
+                    name    ="james"
+                    kartname="beastie"/>
+  </highscore>
+</highscores>
